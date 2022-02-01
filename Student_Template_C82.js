@@ -45,11 +45,9 @@ Type: var multiple = a * b
 Then, print the variable to display the multiplication value
 
 Type: console.log(multiple)
-
+*/
             var multiple =   ;
             console.log();
-
-*/
             
             var divide = a / b ;
             console.log(divide);
