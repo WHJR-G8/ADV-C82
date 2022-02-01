@@ -8,7 +8,7 @@ Concatenate the first name and the last name to print the full name of the perso
 
 Type the line: "first_name.concat(last_name)"
 */
-            var full_name = first_name.concat(last_name);
+            var full_name = ;
             console.log(full_name);
 
             var a = 10;
@@ -22,8 +22,8 @@ Then, print the variable to display the addition value
 
 Type: console.log(add)
 */
-            var add =  a + b;
-            console.log(add);
+            var add =  ;
+            console.log();
 
 /*
 Create a variable named sub and store the subtraction value of a and b in that variable.
@@ -34,8 +34,8 @@ Then, print the variable to display the subtraction value
 
 Type: console.log(sub)
 */
-            var sub = a - b;
-            console.log(sub);
+            var sub = ;
+            console.log();
 
 /*
 Create a variable named multiple and store the multiplication value of a and b in that variable.
